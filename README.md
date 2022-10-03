@@ -63,8 +63,16 @@ a personal collection of links related to (long) covid
 # info
 - [rafael](https://www.rafael-postcovid.ch/), info on post covid from geneva hospitals
 
+## Vaccination or re-infection?
 [Reinfection worsens LC](https://www.longcovidkids.org/post/a-world-first-effect-of-covid-reinfection-on-people-living-with-long-covid) survey of patients
 - self-selection...
 - vast majority not vaccinated before first infection
 - re-infection makes LC worse (80% worse, 10% better)
 - vaccination effect is mixed, mostly no change, more worse than better
+
+Papers on effect of vaccination on LC
+- [nr 1](https://www.mdpi.com/2076-393X/10/5/652)
+- [nr 2](https://www.bmj.com/content/377/bmj-2021-069676)
+- [nr 3](https://www.medrxiv.org/content/10.1101/2022.06.20.22276621v1)
+- [nr 4](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.27689)
+- [nr 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8366804.1/)
