@@ -21,6 +21,8 @@ a personal collection of links related to (long) covid
 - [Lancet lessons learnt so far](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)01585-9/fulltext)
 - [Good overview, LC and ME](https://www.science.org/doi/10.1126/science.abo1261#.Yxuv4jeuOvY.twitter)
 - [Long Covid and disability](https://www.bmj.com/content/378/bmj-2021-069868)
+- [subsets, e.g. inflammatory subset](https://www.medrxiv.org/content/10.1101/2021.09.21.21263845v2)
+- [Rinsing your nose helps](https://journals.sagepub.com/doi/10.1177/01455613221123737?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
 
 # Communication
 - clear guidance at [the MBL](https://goforward.mbl.edu/)
@@ -45,6 +47,7 @@ a personal collection of links related to (long) covid
 
 # Protection
 - [nasal sprays help](https://www.mdr.de/wissen/corona-rotalge-was-kann-sie100.html) (DE, Nov 2021)
+- [Rinsing your nose also helps](https://www.forbes.com/sites/williamhaseltine/2022/10/03/saline-nasal-irrigation-after-covid-19-diagnosis-reduces-hospitalization/?sh=33261014323c)
 - CoriRosenthalBox
 
 # Terminology
