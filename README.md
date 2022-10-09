@@ -30,6 +30,8 @@ a personal collection of links related to (long) covid
 - [some protein can block entry into cells?](https://www.nature.com/articles/s41589-022-01149-6)
 - [SARS-Cov-2 protein can mimic histones (!)](https://www.nature.com/articles/d41586-022-02930-2)
 - [immune exhaustion](https://www.medrxiv.org/content/10.1101/2022.10.03.22280661v1)
+- [cardiovascular outcomes](https://www.nature.com/articles/s41591-022-01689-3) and [more easily understandable article about the paper](https://www.nature.com/articles/d41586-022-00403-0#ref-CR1)
+- [more on cardiovascular issues](https://www.nature.com/articles/d41586-022-02074-3)
 
 # Communication
 - clear guidance at [the MBL](https://goforward.mbl.edu/)
