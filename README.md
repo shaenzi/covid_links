@@ -23,9 +23,16 @@ a personal collection of links related to (long) covid
 - [Long Covid and disability](https://www.bmj.com/content/378/bmj-2021-069868)
 - [subsets, e.g. inflammatory subset](https://www.medrxiv.org/content/10.1101/2021.09.21.21263845v2)
 - [Rinsing your nose helps](https://journals.sagepub.com/doi/10.1177/01455613221123737?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
+- [inflammation and autoreactivity define a subgroup](https://www.medrxiv.org/content/10.1101/2021.09.21.21263845v2)
+- [vaccination is safe and beneficial during pregnancy](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2796976)
+- [neurological sequelae](https://www.nature.com/articles/s41591-022-02018-4)
+- [some protein can block entry into cells?](https://www.nature.com/articles/s41589-022-01149-6)
+- [SARS-Cov-2 protein can mimic histones (!)](https://www.nature.com/articles/d41586-022-02930-2)
+- [immune exhaustion](https://www.medrxiv.org/content/10.1101/2022.10.03.22280661v1)
 
 # Communication
 - clear guidance at [the MBL](https://goforward.mbl.edu/)
+- heart-breaking [patients, DE](https://jardindu.vin/2022/10/04/long-covid-ist/)
 
 # Diagnosis
 - [instructions for 10 NASA lean test](https://batemanhornecenter.org/wp-content/uploads/filebase/providers/mecfs/10-Minute-NASA-Lean-Test-Clinician-Instructions-06_12_2022.pdf)
