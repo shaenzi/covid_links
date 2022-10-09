@@ -25,6 +25,7 @@ a personal collection of links related to (long) covid
 - [Rinsing your nose helps](https://journals.sagepub.com/doi/10.1177/01455613221123737?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed&)
 - [inflammation and autoreactivity define a subgroup](https://www.medrxiv.org/content/10.1101/2021.09.21.21263845v2)
 - [vaccination is safe and beneficial during pregnancy](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2796976)
+- [changes in brain structure](https://www.nature.com/articles/s41586-022-04569-5)
 - [neurological sequelae](https://www.nature.com/articles/s41591-022-02018-4)
 - [some protein can block entry into cells?](https://www.nature.com/articles/s41589-022-01149-6)
 - [SARS-Cov-2 protein can mimic histones (!)](https://www.nature.com/articles/d41586-022-02930-2)
