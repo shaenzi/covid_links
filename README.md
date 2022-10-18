@@ -10,6 +10,9 @@ a personal collection of links related to (long) covid
 - [powering through likely increases covid risk](https://inews.co.uk/news/science/likely-long-covid-rest-testing-positive-1884942) inews, Sept 2022
 - LC and labour shortage in the [Guardian](https://www.theguardian.com/commentisfree/2022/sep/15/long-covid-is-keeping-millions-out-of-work-and-worsening-our-labor-shortage?CMP=Share_AndroidApp_Other)
 - [The long haul](https://www.chicagomag.com/chicago-magazine/october-2022/the-long-haul/) chicago magazine
+- [1 in 5](https://theconversation.com/long-covid-affects-1-in-5-people-following-infection-vaccination-masks-and-better-indoor-air-are-our-best-protections-180668)
+- [covid and stillbirths article](https://www.propublica.org/article/covid-maternity-stillbirth-vaccines-pregnancy)
+- [micro clots and LC](https://www.nature.com/articles/d41586-022-02286-7)
 
 # Papers
 - [multi-disciplinary consensus on treating PASC](https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12894)
@@ -32,6 +35,10 @@ a personal collection of links related to (long) covid
 - [immune exhaustion](https://www.medrxiv.org/content/10.1101/2022.10.03.22280661v1)
 - [cardiovascular outcomes](https://www.nature.com/articles/s41591-022-01689-3) and [more easily understandable article about the paper](https://www.nature.com/articles/d41586-022-00403-0#ref-CR1)
 - [more on cardiovascular issues](https://www.nature.com/articles/d41586-022-02074-3)
+- [LC risk](https://www.nature.com/articles/s41467-022-30836-0)
+- [covid and stillbirths](https://www.cdc.gov/mmwr/volumes/70/wr/mm7047e1.htm)
+- [gut microbiome and covid](https://gut.bmj.com/content/71/3/544)
+- [blood clotting etc after covid](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060785)
 
 # Communication
 - clear guidance at [the MBL](https://goforward.mbl.edu/)
@@ -89,3 +96,6 @@ Papers on effect of vaccination on LC
 - [nr 3](https://www.medrxiv.org/content/10.1101/2022.06.20.22276621v1)
 - [nr 4](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.27689)
 - [nr 5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8366804.1/)
+- in general mixed but more worse than better
+
+i.e. both vaccination and reinfection are pretty bad with Long Covid (though reinfection probably worse?)
