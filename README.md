@@ -21,7 +21,7 @@ a personal collection of links related to (long) covid
 - [hypotheses on the pathophysiology, Iwasaki and Putrino](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00053-1/fulltext); both Iwasaki and Putrino have also been on the Podcast TLC session, both episodes are good! [Putrino](https://www.tlcsessions.net/episodes/the-putrino-lab-dr-david-putrino) and [Iwasaki](https://www.tlcsessions.net/episodes/episode-51-akiko-iwasaki-immunobiologist)
 - [overview twitter thread by British doctor who has also published papers on LC](https://twitter.com/trishgreenhalgh/status/1533803118705664003?lang=en)
 - [update for primary care by the author of the twitter thread ;-)](https://www.bmj.com/content/378/bmj-2022-072117)
-- 
+- [deutsche Übersicht u.a. von C. Scheibenbogen im Ärzteblatt](https://www.aerzteblatt.de/archiv/230502/Post-COVID-und-Post-Vakzin-Syndrom-Die-Pandemie-nach-der-Pandemie)
 
 ## collection...
 - [multi-disciplinary consensus on treating PASC](https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12894)
@@ -48,10 +48,12 @@ a personal collection of links related to (long) covid
 - [covid and stillbirths](https://www.cdc.gov/mmwr/volumes/70/wr/mm7047e1.htm)
 - [gut microbiome and covid](https://gut.bmj.com/content/71/3/544)
 - [blood clotting etc after covid](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060785)
+- [how to properly test PEM: cardiology tests on 2 subsequent days! patients with ME/CFS vs. controls](https://www.mdpi.com/1648-9144/59/3/571)
 
-## LDN etc
+## LDN /LDA etc
 - [study on safety and efficacy of LDN](https://pubmed.ncbi.nlm.nih.gov/35814187/)
 - [LDN protocol slides by J. Lambert](https://static1.squarespace.com/static/60c1e365868884687792d46e/t/6420b1b2974f891599c70830/1679864250492/Prof.+Jack+Lambert+Long+Covid+protocol+%28compressed%29.pdf) as covered in the [podcast tlc sessions](https://www.tlcsessions.net/episodes/low-dose-naltrexone-ldn-and-long-covid)
+- [Low-dose aripiprazole in ME/CFS](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02721-9)
 
 ## oxygen
 - [TLC session podcast on hyperbaric oxygen therapy](https://www.tlcsessions.net/episodes/hyperbaric-oxygen-therapy)
@@ -84,6 +86,7 @@ a personal collection of links related to (long) covid
 - [blog post with winners and losers](https://www.healthrising.org/blog/2022/09/01/long-covid-treatment-trials-winners-losers/)
 - special note on nattokinase: need appropriate coating [see this twitter thread](https://twitter.com/organichemusic/status/1565621342124343296?lang=en)
 - [from neurostingl](https://www.kl.ac.at/allgemeine-gesundheitsstudien/long-covid-leitlinie/chronisches-erschoepfungssyndrom#)
+- [overview over therapeutic trials](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1129459/full)
 
 # Protection
 - [nasal sprays help](https://www.mdr.de/wissen/corona-rotalge-was-kann-sie100.html) (DE, Nov 2021)
