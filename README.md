@@ -57,6 +57,9 @@ a personal collection of links related to (long) covid
 - [TLC session podcast on hyperbaric oxygen therapy](https://www.tlcsessions.net/episodes/hyperbaric-oxygen-therapy)
 - [study on hyperbaric oxygen therapy in LC patients](https://www.rcpjournals.org/content/clinmedicine/21/6/e629) - it's small, no controls, no oxygen therapy without the extra pressure
 
+## anti-coagulation
+- [preprint on triple anti-coagulant therapy](https://www.researchsquare.com/article/rs-2697680/v1) small study; all LC patients with microclots, seems helpful (but pretty strong potential side effects?)
+
 ## Clinical trials
 - [paxlovid](https://clinicaltrials.gov/ct2/show/NCT05668091)
 
