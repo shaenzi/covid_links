@@ -15,6 +15,15 @@ a personal collection of links related to (long) covid
 - [micro clots and LC](https://www.nature.com/articles/d41586-022-02286-7)
 
 # Papers
+
+## good overviews/starters
+- [overview by patient-led-research collaborative](https://www.nature.com/articles/s41579-022-00846-2); the people behind the patient-led research collaborative have also been featured on a [TLC podcast](https://www.tlcsessions.net/episodes/episode-52-patient-led-research-collaborative-hannah-davis-and-lisa-mccorkell)
+- [hypotheses on the pathophysiology, Iwasaki and Putrino](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00053-1/fulltext); both Iwasaki and Putrino have also been on the Podcast TLC session, both episodes are good! [Putrino](https://www.tlcsessions.net/episodes/the-putrino-lab-dr-david-putrino) and [Iwasaki](https://www.tlcsessions.net/episodes/episode-51-akiko-iwasaki-immunobiologist)
+- [overview twitter thread by British doctor who has also published papers on LC](https://twitter.com/trishgreenhalgh/status/1533803118705664003?lang=en)
+- [update for primary care by the author of the twitter thread ;-)](https://www.bmj.com/content/378/bmj-2022-072117)
+- 
+
+## collection...
 - [multi-disciplinary consensus on treating PASC](https://onlinelibrary.wiley.com/doi/abs/10.1002/pmrj.12894)
 - [Cell responses in lung and colon cell models](https://www.mdpi.com/1422-0067/23/18/10451/htm) Sept 2022
 - [ME/CFS diagnosis and management](https://www.mayoclinicproceedings.org/article/S0025-6196(21)00513-9/fulltext) mayo clinic, 
@@ -39,6 +48,17 @@ a personal collection of links related to (long) covid
 - [covid and stillbirths](https://www.cdc.gov/mmwr/volumes/70/wr/mm7047e1.htm)
 - [gut microbiome and covid](https://gut.bmj.com/content/71/3/544)
 - [blood clotting etc after covid](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060785)
+
+## LDN etc
+- [study on safety and efficacy of LDN](https://pubmed.ncbi.nlm.nih.gov/35814187/)
+- [LDN protocol slides by J. Lambert](https://static1.squarespace.com/static/60c1e365868884687792d46e/t/6420b1b2974f891599c70830/1679864250492/Prof.+Jack+Lambert+Long+Covid+protocol+%28compressed%29.pdf) as covered in the [podcast tlc sessions](https://www.tlcsessions.net/episodes/low-dose-naltrexone-ldn-and-long-covid)
+
+## oxygen
+- [TLC session podcast on hyperbaric oxygen therapy](https://www.tlcsessions.net/episodes/hyperbaric-oxygen-therapy)
+- [study on hyperbaric oxygen therapy in LC patients](https://www.rcpjournals.org/content/clinmedicine/21/6/e629) - it's small, no controls, no oxygen therapy without the extra pressure
+
+## Clinical trials
+- [paxlovid](https://clinicaltrials.gov/ct2/show/NCT05668091)
 
 # Communication
 - clear guidance at [the MBL](https://goforward.mbl.edu/)
