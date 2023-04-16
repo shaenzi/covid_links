@@ -49,6 +49,8 @@ a personal collection of links related to (long) covid
 - [gut microbiome and covid](https://gut.bmj.com/content/71/3/544)
 - [blood clotting etc after covid](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.122.060785)
 - [how to properly test PEM: cardiology tests on 2 subsequent days! patients with ME/CFS vs. controls](https://www.mdpi.com/1648-9144/59/3/571)
+- [charite publications](https://cfc.charite.de/fuer_aerzte/veroeffentlichungen/)
+- [charite recommended literature for patients](https://cfc.charite.de/fuer_patienten/literatur_und_empfehlungen_fuer_patienten/)
 
 ## LDN /LDA etc
 - [study on safety and efficacy of LDN](https://pubmed.ncbi.nlm.nih.gov/35814187/)
@@ -77,16 +79,26 @@ a personal collection of links related to (long) covid
 - [PESE/PEM explained](https://longcovid.physio/post-exertional-malaise)
 
 # Treatment
+
+## treatment recommendations
+- [Charite recommendations from 2021 (german)](https://cfc.charite.de/fileadmin/user_upload/microsites/kompetenzzentren/cfc/Landing_Page/Therapieempfehlungen_PVF_4_21.pdf), later ones from [twitter](https://twitter.com/JanniLeh/status/1645343125936668679?t=dKidViRR0dADnUGy-kKgEQ&s=09) - melatonin and old anti-histamines for insomnia, LDA/LDN also mentioned
+- [recommendations shared by Long Covid Switzerland, by Maja Strasser, german](https://t.co/ld6Q4UFBIa)
+- [blog post with winners and losers](https://www.healthrising.org/blog/2022/09/01/long-covid-treatment-trials-winners-losers/)
+- special note on nattokinase: need appropriate coating [see this twitter thread](https://twitter.com/organichemusic/status/1565621342124343296?lang=en)
+- [from neurostingl](https://www.kl.ac.at/allgemeine-gesundheitsstudien/long-covid-leitlinie/chronisches-erschoepfungssyndrom#)
+- [de Leitlinie - eher wenig Spezifisches](https://register.awmf.org/assets/guidelines/020-027p_S1_Post_COVID_Long_COVID_2023-02.pdf)
+
+
+## specific treatments
+
 - [US treatment provider](https://rthm.com/)
 - [info/education for patients](https://batemanhornecenter.org/education/)
 - [ME/CFS treatment recommendations](https://batemanhornecenter.org/wp-content/uploads/filebase/Treatment-Recs-MECFS-Clinician-Coalition-V1-Feb.-2021.pdf)
 - [BMJ opinion article, holistic care](https://www.bmj.com/content/378/bmj-2022-072117)
 - [stanford treatment](https://twitter.com/LongCovidAdvoc/status/1570690002933403649?t=Y9Crz9VRolJij6GfE4lLAg&s=09) though not sure how much I trust this source
 - [WHO guideline](https://app.magicapp.org/#/guideline/6471) not very much on LC?
-- [blog post with winners and losers](https://www.healthrising.org/blog/2022/09/01/long-covid-treatment-trials-winners-losers/)
-- special note on nattokinase: need appropriate coating [see this twitter thread](https://twitter.com/organichemusic/status/1565621342124343296?lang=en)
-- [from neurostingl](https://www.kl.ac.at/allgemeine-gesundheitsstudien/long-covid-leitlinie/chronisches-erschoepfungssyndrom#)
 - [overview over therapeutic trials](https://www.frontiersin.org/articles/10.3389/fimmu.2023.1129459/full)
+- [NICE guidelines](https://www.nice.org.uk/guidance/ng188/resources/covid19-rapid-guideline-managing-the-longterm-effects-of-covid19-pdf-51035515742)
 
 # Protection
 - [nasal sprays help](https://www.mdr.de/wissen/corona-rotalge-was-kann-sie100.html) (DE, Nov 2021)
@@ -102,12 +114,14 @@ a personal collection of links related to (long) covid
 # Pacing / tracking
 - [Yorkshire rehab scale](https://c19-yrs.com/) sounds very reasonable but not accessible if not referred?
 - [bearable](https://bearable.app/) 
+- [PEM avoidance toolkit, DE](https://www.omf.ngo/wp-content/uploads/2019/09/PEM-Avoidance-Toolkit-Deutsch.pdf)
 
 # Patient-led stuff
 - [Patient-led research collaborative](https://patientresearchcovid19.com/) they have ongoing surveys
 
 # info
 - [rafael](https://www.rafael-postcovid.ch/), info on post covid from geneva hospitals
+- [ME-pedia](https://me-pedia.org/wiki/Welcome_to_MEpedia)
 
 ## Vaccination or re-infection?
 [Reinfection worsens LC](https://www.longcovidkids.org/post/a-world-first-effect-of-covid-reinfection-on-people-living-with-long-covid) survey of patients
